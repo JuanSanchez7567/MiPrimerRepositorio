@@ -1,1 +1,2 @@
 ¡Hola Mundo desde GitHub!
+Esta es una nueva funcionalidad
